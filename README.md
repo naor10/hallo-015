@@ -1,1 +1,1 @@
-# expressjs-structure
+# Simple NodeJs & Vue app
